@@ -1,2 +1,2 @@
-# OrchardSkills-OrchardSkills.OrchardCore.DecoubledCMS
+# OrchardSkills.OrchardCore.DecoubledCMS
 Using Orchard Core as a Decoupled CMS
